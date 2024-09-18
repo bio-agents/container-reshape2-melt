@@ -1,0 +1,3 @@
+which Rscript
+which melt.R
+which run_test.sh
